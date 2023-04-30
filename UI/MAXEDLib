@@ -21,6 +21,7 @@ local RayFieldQuality = {}
 
 local RayfieldLibrary = {
 	Flags = {},
+	Themes = {
 		Default = {
 			TextFont = "Default", -- Default will use the various font faces used across Rayfield
 			TextColor = Color3.fromRGB(0, 255, 255),
